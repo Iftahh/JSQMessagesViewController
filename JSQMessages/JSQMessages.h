@@ -25,6 +25,7 @@ FOUNDATION_EXPORT const unsigned char JSQMessagesVersionString[];
 #import "JSQMessagesCollectionViewCellOutgoing.h"
 #import "JSQMessagesTypingIndicatorFooterView.h"
 #import "JSQMessagesLoadEarlierHeaderView.h"
+#import "JSQMessagesMediaPlaceholderView.h"
 
 //  Layout
 #import "JSQMessagesCollectionViewFlowLayout.h"
@@ -68,3 +69,5 @@ FOUNDATION_EXPORT const unsigned char JSQMessagesVersionString[];
 #import "UIColor+JSQMessages.h"
 #import "UIImage+JSQMessages.h"
 #import "UIView+JSQMessages.h"
+#import "NSBundle+JSQMessages.h"
+#import "UIDevice+JSQMessages.h"
